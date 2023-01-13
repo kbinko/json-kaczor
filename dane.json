@@ -1,0 +1,210 @@
+{
+    "resources": {
+        "name": "WatchAll",
+        "description": "A streaming service that offers movies, TV shows, and music.",
+        "url": "https://watchall.com",
+        "logo": "https://watchall.com/logo.png",
+        "contact": {
+            "name": "John Smith",
+            "email": "johnsmith@example.com",
+            "phone": "555-555-5555"
+        },
+
+        "types": [
+            "movies",
+            "tv",
+            "music"
+        ],
+        "movies_genre": [
+            "Action",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Crime",
+            "Documentary",
+            "Drama",
+            "Family",
+            "Fantasy",
+            "History",
+            "Horror",
+            "Music",
+            "Mystery",
+            "Romance",
+            "Science Fiction",
+            "TV Movie",
+            "Thriller",
+            "War",
+            "Western"
+        ],
+        "tv_genre": [
+            "Action & Adventure",
+            "Animation",
+            "Comedy",
+            "Crime",
+            "Documentary",
+            "Drama",
+            "Family",
+            "Kids",
+            "Mystery",
+            "News",
+            "Reality",
+            "Sci-Fi & Fantasy",
+            "Soap",
+            "Talk",
+            "War & Politics",
+            "Western"
+        ],
+
+        "music_genre": [
+            "Alternative",
+            "Blues",
+            "Classical",
+            "Country",
+            "Dance",
+            "Electronic",
+            "Hip Hop",
+            "Jazz",
+            "Latin",
+            "Metal",
+            "Pop",
+            "Punk",
+            "R&B",
+            "Reggae",
+            "Rock",
+            "Soul",
+            "World"
+        ],
+        "movies": [
+
+            {
+                "genre1": "Action",
+                "title1": "The Matrix",
+                "description1": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+                "url1": "https://watchall.com/movies/the-matrix",
+                "image1": "https://watchall.com/movies/the-matrix.jpg",
+                "duration1": "2h 16m",
+                "release_date1": "1999-03-31",
+                "rating1": "R",
+                "price1": "9.99"
+            },
+            {
+                "genre": "Fantasy",
+                "title": "The Lord of the Rings: The Fellowship of the Ring",
+                "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+                "url": "https://watchall.com/movies/the-lord-of-the-rings-the-fellowship-of-the-ring",
+                "image": "https://watchall.com/movies/the-lord-of-the-rings-the-fellowship-of-the-ring.jpg",
+                "duration": "2h 58m",
+                "release_date": "2001-12-18",
+                "rating": "PG-13",
+                "price": "9.99"
+            },
+            {
+                "genre": "Comedy",
+                "title": "The Hangover",
+                "description": "Three buddies wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing. They make their way around the city in order to find their friend before his wedding.",
+                "url": "https://watchall.com/movies/the-hangover",
+                "image": "https://watchall.com/movies/the-hangover.jpg",
+                "duration": "1h 40m",
+                "release_date": "2009-06-05",
+                "rating": "R",
+                "price": "9.99"
+            }
+        ],
+
+        "tv": [{
+                "genre": "Action & Adventure",
+                "title": "The Flash",
+                "description": "After being struck by lightning, Barry Allen wakes up from his coma to discover he's been given the power of super speed, becoming the next Flash, fighting crime in Central City.",
+                "url": "https://watchall.com/tv/the-flash",
+                "image": "https://watchall.com/tv/the-flash.jpg",
+                "duration": "42m",
+                "release_date": "2014-10-07",
+                "rating": "TV-PG",
+                "price": "9.99"
+            },
+            {
+                "genre": "Comedy",
+                "title": "The Big Bang Theory",
+                "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+                "url": "https://watchall.com/tv/the-big-bang-theory",
+                "image": "https://watchall.com/tv/the-big-bang-theory.jpg",
+                "duration": "22m",
+                "release_date": "2007-09-24",
+                "rating": "TV-PG",
+                "price": "9.99"
+            },
+            {
+                "genre": "Drama",
+                "title": "Game of Thrones",
+                "description": "Nine noble families fight for control over the mythical lands of Westeros, while an ancient enemy returns after being dormant for thousands of years.",
+                "url": "https://watchall.com/tv/game-of-thrones",
+                "image": "https://watchall.com/tv/game-of-thrones.jpg",
+                "duration": "1h",
+                "release_date": "2011-04-17",
+                "rating": "TV-MA",
+                "price": "9.99"
+            }
+        ],
+
+        "music": [{
+                "genre": "Alternative",
+                "title": "The Killers",
+                "description": "The Killers are an American rock band formed in Las Vegas, Nevada, in 2001 by Brandon Flowers and Dave Keuning. The band's name is derived from a logo on the bass drum of a fictitious band, portrayed in the music video for the New Order song \"Crystal\".",
+                "url": "https://watchall.com/music/the-killers",
+                "image": "https://watchall.com/music/the-killers.jpg",
+                "duration": "2h 16m",
+                "release_date": "1999-03-31",
+                "rating": "R",
+                "price": "9.99"
+
+            },
+            {
+                "genre": "Blues",
+                "title": "Eric Clapton",
+                "description": "Eric Patrick Clapton, CBE, is an English rock and blues guitarist, singer, and songwriter. He is the only three-time inductee to the Rock and Roll Hall of Fame: once as a solo artist and separately as a member of the Yardbirds and Cream.",
+                "url": "https://watchall.com/music/eric-clapton",
+                "image": "https://watchall.com/music/eric-clapton.jpg",
+                "duration": "2h 58m",
+                "release_date": "2001-12-18",
+                "rating": "PG-13",
+                "price": "9.99"
+            },
+            {
+                "genre": "Classical",
+                "title": "Beethoven",
+                "description": "Ludwig van Beethoven was a German composer and pianist. A crucial figure in the transition between the Classical and Romantic eras in Western art music, he remains one of the most famous and influential of all composers.",
+                "url": "https://watchall.com/music/beethoven",
+                "image": "https://watchall.com/music/beethoven.jpg",
+                "duration": "1h 40m",
+                "release_date": "2009-06-05",
+                "rating": "R",
+                "price": "9.99"
+            }
+        ],
+
+        "users": {
+            "user1": {
+                "name": "John Smith",
+                "email": "johnsmith@example.com",
+                "subscription_type": "premium",
+                "preferences": {
+                    "types": ["movies", "tv", "music"],
+                    "genres": ["action", "drama"],
+                    "artists": ["Led Zeppelin"]
+                },
+                "history": ["The Shawshank Redemption", "Game of Thrones"]
+            },
+            "user2": {
+                "name": "Jane Doe",
+                "email": "janedoe@example.com",
+                "subscription_type": "basic",
+                "preferences": {
+                    "types": ["movies", "tv"],
+                    "genres": ["comedy", "sci-fi"],
+                    "artists": ["Michael Jackson"]
+                },
+                "history": ["Pulp Fiction", "The Office"]
+            }
+        }
+    }
+}

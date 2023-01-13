@@ -1,0 +1,30 @@
+{
+    "shows": [{
+            "genre": "Drama",
+            "title": "Breaking Bad",
+            "description": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future.",
+            "seasons": "5",
+            "episode_length": "45",
+            "release_date": "2008-01-20",
+            "price": "3.99"
+        },
+        {
+            "genre": "Comedy",
+            "title": "Parks and Recreation",
+            "description": "The absurd antics of an Indiana town's public officials as they pursue sundry projects to make their city a better place.",
+            "seasons": "7",
+            "episode_length": "22",
+            "release_date": "2009-04-09",
+            "price": "2.99"
+        },
+        {
+            "genre": "Science fiction",
+            "title": "Stranger Things",
+            "description": "When a young boy disappears, his mother, a police chief, and his friends must confront terrifying supernatural forces in order to get him back.",
+            "seasons": "4",
+            "episode_length": "50",
+            "release_date": "2016-07-15",
+            "price": "4.99"
+        }
+    ]
+}

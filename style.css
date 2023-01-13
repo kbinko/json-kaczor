@@ -1,0 +1,47 @@
+body {
+    font-family: 'lato', sans-serif;
+    padding: 20px;
+    background-color: #4b4b4b;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+    color: rgb(225, 225, 225);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+#movies-container,
+#shows-container,
+#music-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+    align-items: center;
+}
+
+.movie,
+.show,
+.album {
+    border: 1px solid rgb(199, 199, 199);
+    padding: 20px;
+    margin-bottom: 30px;
+    background-color: rgb(194, 194, 194);
+    box-shadow: 0px 5px 10px #ddd;
+    transition: all 0.3s ease-in-out;
+    height: 80%;
+}
+
+.movie:hover,
+.show:hover,
+.album:hover {
+    transform: scale(1.02);
+    box-shadow: 0px 10px 20px #bbb;
+}
+
+p {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+    color: #555;
+}

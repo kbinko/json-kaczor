@@ -1,0 +1,24 @@
+{
+    "music": [{
+            "genre": "Pop",
+            "title": "1989",
+            "artist": "Taylor Swift",
+            "release_date": "2014-10-27",
+            "price": "9.99"
+        },
+        {
+            "genre": "Rap",
+            "title": "My Beautiful Dark Twisted Fantasy",
+            "artist": "Kanye West",
+            "release_date": "2010-11-22",
+            "price": "11.99"
+        },
+        {
+            "genre": "Rock",
+            "title": "Hotel California",
+            "artist": "Eagles",
+            "release_date": "1976-02-25",
+            "price": "7.99"
+        }
+    ]
+}

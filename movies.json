@@ -1,0 +1,38 @@
+  {
+      "movies": [
+
+          {
+              "genre": "Action",
+              "title": "The Matrix",
+              "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+              "url": "https://watchall.com/movies/the-matrix",
+              "image": "https://watchall.com/movies/the-matrix.jpg",
+              "duration": "2h 16m",
+              "release_date": "1999-03-31",
+              "rating": "R",
+              "price": "9.99"
+          },
+          {
+              "genre": "Fantasy",
+              "title": "The Lord of the Rings: The Fellowship of the Ring",
+              "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+              "url": "https://watchall.com/movies/the-lord-of-the-rings-the-fellowship-of-the-ring",
+              "image": "https://watchall.com/movies/the-lord-of-the-rings-the-fellowship-of-the-ring.jpg",
+              "duration": "2h 58m",
+              "release_date": "2001-12-18",
+              "rating": "PG-13",
+              "price": "9.99"
+          },
+          {
+              "genre": "Comedy",
+              "title": "The Hangover",
+              "description": "Three buddies wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing. They make their way around the city in order to find their friend before his wedding.",
+              "url": "https://watchall.com/movies/the-hangover",
+              "image": "https://watchall.com/movies/the-hangover.jpg",
+              "duration": "1h 40m",
+              "release_date": "2009-06-05",
+              "rating": "R",
+              "price": "9.99"
+          }
+      ]
+  }
